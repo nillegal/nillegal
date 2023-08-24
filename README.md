@@ -5,7 +5,7 @@ Another self taught developer
 -----------------------------
 
 *   🌍  I'm based in Antananarivo, Madagascar
-*   🤝  I'm open to collaborating on Any TALL Stack projects, or Laravel / PHP based projects.
+*   🤝  I'm open to collaborate on Any TALL Stack projects, or Laravel / PHP based projects.
 *   ⚡  I also have 10+ years experiences in graphic design, helping me to build nice looking websites / apps<a href="https://www.twitter.com/jayharnilaina" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/jayharnilaina?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
